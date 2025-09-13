@@ -9,7 +9,7 @@ This repository supports the **Bangladesh-wide DataCamp Classrooms Outreach Prog
 
 ## 📂 File Types
 - **institutions.csv** → Plain URLs (best for automation, Python/R scripts, data processing).  
-- **institutions_clickable.csv** → Excel/Google Sheets friendly with clickable “Join Group” links.  
+- **institutions.xlsx** → Excel-friendly with clickable “Join Group” links.  
 - **institutions.md** → Human-readable Markdown with clickable links, browsable directly on GitHub.  
 
 ## 🚀 How to Join
