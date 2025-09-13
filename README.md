@@ -13,9 +13,12 @@ This repository supports the **Bangladesh-wide DataCamp Classrooms Outreach Prog
 3. Join your **Data Science Learner** group using the provided link.
 
 ## 🤝 Contributing
-If you are a faculty or student leader who wants to manage your institution’s group:
-- Add/update your institution’s details via a pull request.
-- Or contact us to get listed.
+This repository is managed centrally. To add or update your institution’s details,  
+please fill out the request form below:  
+
+👉 [Institution Manager Request Form](https://forms.gle/t887jNGeT7wiTULz6)
+
+All updates will be reviewed and added by the repository maintainer.
 
 ---
 Made possible with the support of [DataCamp](https://www.datacamp.com/) 💚

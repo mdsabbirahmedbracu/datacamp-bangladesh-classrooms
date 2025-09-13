@@ -1,10 +1,10 @@
 # Contribution Guidelines
 
-We welcome contributions from faculty, student leaders, and managers of Data Science Learner groups.
+This repository is managed centrally to ensure accuracy and consistency.  
+Direct pull requests or edits to institutional details are not accepted.  
 
-- Add your institution to `institutions.csv` and `institutions.md`.
-- Use official institutional email domains only.
-- Ensure group links are valid.
-- Add manager contact details (preferably a faculty).
+## 📥 How to Add/Update Your Institution
+If you are a faculty or student leader who wants to manage your institution’s Data Science Learner group, please submit a request through this form:  
+👉 [Institution Manager Request Form](https://forms.gle/t887jNGeT7wiTULz6)
 
-📥 Submit via pull request or contact the repository maintainer.
+The repository maintainer will review your submission and update the details accordingly.
