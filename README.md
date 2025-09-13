@@ -7,8 +7,13 @@ This repository supports the **Bangladesh-wide DataCamp Classrooms Outreach Prog
 - 🔗 Data Science Learner group joining links
 - 👥 Group managers and contact details
 
+## 📂 File Types
+- **institutions.csv** → Plain URLs (best for automation, Python/R scripts, data processing).  
+- **institutions_clickable.csv** → Excel/Google Sheets friendly with clickable “Join Group” links.  
+- **institutions.md** → Human-readable Markdown with clickable links, browsable directly on GitHub.  
+
 ## 🚀 How to Join
-1. Find your institution in `institutions.csv` or `institutions.md`.
+1. Find your institution in one of the above files.
 2. Use your official institutional email to sign up.
 3. Join your **Data Science Learner** group using the provided link.
 
@@ -19,6 +24,3 @@ please fill out the request form below:
 👉 [Institution Manager Request Form](https://forms.gle/t887jNGeT7wiTULz6)
 
 All updates will be reviewed and added by the repository maintainer.
-
----
-Made possible with the support of [DataCamp](https://www.datacamp.com/) 💚
