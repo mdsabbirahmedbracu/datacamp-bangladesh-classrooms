@@ -128,7 +128,7 @@ _Last updated: October 2025_
 ## Northern University Bangladesh (NUB)
 - 📧 **Email Domain:** `nub.ac.bd`
 - 📂 **Group Name:** Data Science Learners_NUB
-- 🔗 [Join Group] (https://www.datacamp.com/groups/shared_links/48b34d35e5f03e478e78bb77f0c65cb263eb7c6c237af6d61731252456a30c5e)
+- 🔗 [Join Group](https://www.datacamp.com/groups/shared_links/48b34d35e5f03e478e78bb77f0c65cb263eb7c6c237af6d61731252456a30c5e)
 - 👥 **Admins/Managers:** Mohammad Nasif Sadique Khan, Md. Abde Mannaf  
 - ✉️ **Emails:** nasif.sadique@nub.ac.bd, mannaf@nub.ac.bd
 
