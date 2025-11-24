@@ -161,5 +161,104 @@ _Last updated: October 2025_
 
 ---
 
+## Military Institution of Science and Technology (MIST)
+- 📧 **Email Domain:** `mist.ac.bd`
+- 📂 **Group Name:** Data Science Learners_MIST
+- 🔗 [Join Group](https://www.datacamp.com/groups/shared_links/6913e52885fd7f787d83176d94a3551d59606cec5d0ee73e02eba904c5bc5238)
+- 👥 **Admins/Managers:** Md. Raisul Islam Ratul, Iftekharul Islam
+- ✉️ **Emails:** 202216049@student.mist.ac.bd, 202214024@student.mist.ac.bd
+
+---
+
+## East Delta University (EDU)
+- 📧 **Email Domain:** `eastdelta.edu.bd`
+- 📂 **Group Name:** Data Science Learners_EDU
+- 🔗 [Join Group](https://www.datacamp.com/groups/shared_links/6c85874cfde5546a371dc2b66b0c09a75138d2717ea36a8861265ee935631ddd)
+- 👥 **Admin/Manager:** Antu Chowdhury
+- ✉️ **Email:** antu.c@eastdelta.edu.bd
+
+---
+
+## Ahsanullah University of Science and Technology (AUST)
+- 📧 **Email Domain:** `aust.edu`
+- 📂 **Group Name:** Data Science Learners_AUST
+- 🔗 [Join Group](https://www.datacamp.com/groups/shared_links/59e99f341d489342e363284605205fe28fd4ea16fb91fd31467e20b14d589b16)
+- 👥 **Admin/Manager:** Rafi Ahmed Ananda
+- ✉️ **Email:** rafi.ipe.20220107086@aust.edu
+
+---
+
+## University of Rajshahi (RU)
+- 📧 **Email Domain:** `ru.ac.bd`
+- 📂 **Group Name:** Data Science Learners_RU
+- 🔗 [Join Group](https://www.datacamp.com/groups/shared_links/9dad8a378e139ca41b20630c1aabf4e091e0eaa1e8e2176dbced40fd86e14a1c)
+- 👥 **Admin/Manager:** Al Farazi Maruf
+- ✉️ **Email:** s2010547166@ru.ac.bd
+
+---
+
+## Islamic University of Technology (IUT)
+- 📧 **Email Domain:** `iut-dhaka.edu`
+- 📂 **Group Name:** Data Science Learners_IUT
+- 🔗 [Join Group](https://www.datacamp.com/groups/shared_links/6c0b29703e6bdec90095322a72c3402b9656244efcc7cc4d9d2808fe29745521)
+- 👥 **Admin/Manager:** Ajwad Abrar
+- ✉️ **Email:** ajwadabrar@iut-dhaka.edu
+
+---
+
+## Rajshahi University of Engineering and Technology (RUET)
+- 📧 **Email Domain:** `ruet.ac.bd`
+- 📂 **Group Name:** Data Science Learners_RUET
+- 🔗 [Join Group](https://www.datacamp.com/groups/shared_links/a560a33d617f47d7ae2d07ccdcd19728c0424c93b368d56ee5823033cf8d4a22)
+- 👥 **Admins/Managers:** Mahathir Hossain Mahi, Mahir Daiyan Safwaan
+- ✉️ **Emails:** 2302155@student.ruet.ac.bd, 2301111@student.ruet.ac.bd
+
+---
+
+## Green University of Bangladesh (GUB)
+- 📧 **Email Domain:** `green.edu.bd`
+- 📂 **Group Name:** Data Science Learners_GUB
+- 🔗 [Join Group](https://www.datacamp.com/groups/shared_links/7f879013ca1dbdc38036e7eb1dc3d897595c136a3e4cc590a01b9a3170044cf9)
+- 👥 **Admins/Managers:** Md. Abu Taief Siddique, Most Sadia Afrose Mithi
+- ✉️ **Emails:** 211902037@student.green.edu.bd, 221002540@student.green.edu.bd
+
+---
+
+## Jashore University of Science and Technology (JUST)
+- 📧 **Email Domain:** `just.edu.bd`
+- 📂 **Group Name:** Data Science Learners_JUST
+- 🔗 [Join Group](https://www.datacamp.com/groups/shared_links/5f6edc6c7f8d4126963056718abdea560d5cee4a0f477b83e5af963d5a99bce3)
+- 👥 **Admin/Manager:** Shoyeb Muhammad
+- ✉️ **Email:** s.muhammad@just.edu.bd
+
+---
+
+## Bangladesh University of Textiles (BUTEX)
+- 📧 **Email Domain:** `butex.edu.bd`
+- 📂 **Group Name:** Data Science Learners_BUTEX
+- 🔗 [Join Group](https://www.datacamp.com/groups/shared_links/30fd956fbfbe70b068dda1b4948fd299e74d45c7db7c8f2606083eda235427a8)
+- 👥 **Admin/Manager:** Amit Sharma Chowdhury
+- ✉️ **Email:** 202117004@ipe.butex.edu.bd
+
+---
+
+## BGC Trust University Bangladesh (BGCTUB)
+- 📧 **Email Domain:** `bgctub.ac.bd`
+- 📂 **Group Name:** Data Science Learners_BGCTUB
+- 🔗 [Join Group](https://www.datacamp.com/groups/shared_links/eb854556570ba48d1f677fd7ee7aa02ecfdf1f4ea6822052c5c9e287ba236646)
+- 👥 **Admin/Manager:** Md Rahat Ibne Sattar
+- ✉️ **Email:** rahat@bgctub.ac.bd
+
+---
+
+## Chittagong Independent University (CIU)
+- 📧 **Email Domain:** `ciu.edu.bd`
+- 📂 **Group Name:** Data Science Learners_CIU
+- 🔗 [Join Group](https://www.datacamp.com/groups/shared_links/dffd89b8fc1ace2a3c4ccda7dd076022a17f6b638b6dee32298331fe9e17968e)
+- 👥 **Admin/Manager:** Ayman Iktidar
+- ✉️ **Email:** ayman_iktidar@ciu.edu.bd
+
+---
+
 If your institution is not listed, please request addition or management access here:  
 👉 [Institution Manager Request Form](https://forms.gle/t887jNGeT7wiTULz6)
