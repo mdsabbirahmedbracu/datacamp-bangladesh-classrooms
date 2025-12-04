@@ -261,11 +261,11 @@ _Last updated: October 2025_
 ---
 
 ## International Islamic University Malaysia (IIUM)
-📧 **Email Domain:** `iium.edu.my`
-📂 **Group Name:** Data Science Learners_IIUM
-🔗 [Join Group](https://www.datacamp.com/groups/shared_links/9fc0abe7e923b693ba4e1e0606ea9fadda18e150d9496fc5072edb21e96a8f62)
-👥 **Admin/Manager:** Azhar Bin Mohd Ibrahim (Assoc. Prof. Dr.), Salman Ibne Eunus
-✉️ **Email:** azhar_ibrahim@iium.edu.my, salman.ibne@live.iium.edu.my
+-📧 **Email Domain:** `iium.edu.my`
+-📂 **Group Name:** Data Science Learners_IIUM
+-🔗 [Join Group](https://www.datacamp.com/groups/shared_links/9fc0abe7e923b693ba4e1e0606ea9fadda18e150d9496fc5072edb21e96a8f62)
+-👥 **Admin/Manager:** Azhar Bin Mohd Ibrahim (Assoc. Prof. Dr.), Salman Ibne Eunus
+-✉️ **Email:** azhar_ibrahim@iium.edu.my, salman.ibne@live.iium.edu.my
 
 ---
 
